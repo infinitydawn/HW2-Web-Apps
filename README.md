@@ -26,6 +26,6 @@ This is a single-page website for the Pairs Olympic Games. It includes sections 
 - Test the website on different browsers and devices for compatibility.
 
 ## Credits
-This project was completed by our team for a web development class.
+This practice project was completed by me for a web development class.
 
 Thank you for viewing the Pairs Olympic Games website.
